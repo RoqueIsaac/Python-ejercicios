@@ -56,8 +56,6 @@ def EnterMove(x):
             else:
                 print("numero ocupado, selecciona otro")
     
-    #DisplayBoard(x)
-    
 
 def MakeListOfFreeFields(x):
     #
@@ -90,14 +88,6 @@ def VictoryFor(x):
     # el jugador que utiliza las 'O's o las 'X's ha ganado el juego
     #
     
-    """for j in range(3):
-        for k in range(1):
-            if ((x[j][k] == x[j][k+1] == x[j][k+2]) or\
-                (x[k][j] == x[k+1][j] == x[k+2][j]) or\
-                (x[0][0] == x[1][1] == x[2][2]) or\
-                (x[0][2] == x[1][1] == x[2][0])):
-                sign=1
-    """
     
     if ((x[0][0] == x[0][1] == x[0][2]) or\
        (x[1][0] == x[1][1] == x[1][2]) or\
