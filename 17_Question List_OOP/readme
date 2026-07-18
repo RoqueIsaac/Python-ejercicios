@@ -1,1 +1,9 @@
 
+Questin List
+
+Es un juego en el que trata de acertar a la pregunta (true / false),
+se cuentan los aciertos, se utiliza OOP para modelar un objeto tipo Question (question_model)
+el cual contiene 2 atributos, el texto y la respuesta.
+se crea una lista de objetos Question, a partir de un diccionarrio que contiene las pregunas y respuestas.
+Se crea otro objeto tipo QuizBrain, el cual contiene los metodos y atributos para hacer funcionar el juego, 
+este tiene como parametro la lista de objetos Question.
