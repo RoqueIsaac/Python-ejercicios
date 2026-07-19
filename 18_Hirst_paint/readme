@@ -1,0 +1,7 @@
+recrea una pintura de hirst, de puntos de divesos colores.
+
+Primero se extraen los colores de una imagen, la libreria cologram nos ayuda,
+se procesan los datos obtenidos y se crea una lista de tuples con datos r,g,b 
+de cada color extraido.
+
+A partir de esta lista de colores, se pintan puntos
