@@ -5,7 +5,7 @@ import random
 #--------------------------
 def finish_line():
     """
-    Pinta la linea de meta
+    Draws finish line
     """
     line = tr.Turtle(visible=False)
     line.pu()
