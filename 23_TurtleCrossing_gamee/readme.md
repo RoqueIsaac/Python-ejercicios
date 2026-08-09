@@ -1,5 +1,7 @@
 # Turtle Crossing
 
+<img src="/t_crosing.png" width="60" height="60">
+
 ## Introduction
 
 This project is a game in which the player controls a turtle that must cross to the other side without getting hit by cars.
