@@ -11,6 +11,10 @@ Reaching the other side takes the player to the next level, in which the speed i
 
 ## Dependencies
 
-* car_manager.py  -> This file generates cars for each level.
-* player.py       -> This file is in charge of player movement.
-* scoreboard.py   -> This file tracks the level on which the player is on.
+| File      | Description |
+| ----------- | ----------- |
+| car_manager.py      | This file generates cars for each level.       |
+| player.py    | This file is in charge of player movement.        |
+| scoreboard.py | This file tracks the level on which the player is on. |
+
+
