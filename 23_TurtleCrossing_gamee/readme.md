@@ -1,6 +1,6 @@
 # Turtle Crossing
 
-<img src="./t_crossing.PNG" alt="T crossing" width="60" height="60">
+<img src="./t_crossing.PNG" alt="T crossing" width="100" height="100">
 
 ## Introduction
 
