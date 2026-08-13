@@ -8,7 +8,7 @@ Classic snake game, in which the player grab food using arrow keys.
 Every food grabed, increase snake lenght.
 
 Enhacements:
-  * track/save highscore, which is store data.txt
+  * track/save highscore, which is stored data.txt
 
 
 
