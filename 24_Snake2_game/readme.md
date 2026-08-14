@@ -1,6 +1,6 @@
 # Snake Game
 
-<img src="./t_crossing.PNG" alt="T crossing" width="100" height="100">
+<img src="./snake.PNG" alt="T crossing" width="100" height="100">
 
 ## Introduction
 
