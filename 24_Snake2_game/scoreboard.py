@@ -19,7 +19,7 @@ class Scoreboard(Turtle):
         self.goto(0, 260)
         self.write(f"Score: {self.score}            High Score: {self.highscore}", align=ALIGNMENT, font=FONT)
         self.exit_game()
-disp
+
     def increase_score(self):
 
         self.score += 1
