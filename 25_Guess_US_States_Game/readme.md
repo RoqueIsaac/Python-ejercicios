@@ -7,7 +7,7 @@
 
 In this game you need to guess and write correctly all US states you remember.
 
-Type __Exit__ to end the program, then a file is created (missing_states.csv) with the missing US states.
+Type **_Exit_** to end the program, then a file is created (missing_states.csv) with the missing US states.
 
 ## Dependencies
 
