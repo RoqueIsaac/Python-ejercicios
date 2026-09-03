@@ -14,6 +14,7 @@ Type **_Exit_** to end the program, then a file is created (missing_states.csv) 
 | File      | Description |
 | ----------- | ----------- |
 | main.py       | main program file |
+| blank_states_img.gif  |  US map |
 | 50_states.csv      | table with states and its coordinates for location in the map       |
 | missing_states.csv  | missing states will be saved here        |
 
