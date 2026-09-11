@@ -12,9 +12,7 @@ you need to modify following variables to set the time for work, break and long 
 recommended values are 25 for work, 5 for short break and 20 for long break
 
 |WORK_MIN|
-|---------|
 |SHORT_BREAK_MIN|
-|----------|
 |LONG_BREAK_MIN |
 
 Sounds were added to mark the beggining of each phase
