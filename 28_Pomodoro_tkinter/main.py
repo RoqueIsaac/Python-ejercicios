@@ -31,7 +31,7 @@ def reset_timer():
 
 
 # ---------------------------- TIMER MECHANISM ------------------------------- #
-#esta bandera ayuda a activar varias veces el timer, se activa cuando termina el que esta en ejecucion
+#esta bandera ayuda a prevenir activar varias veces el timer, se activa cuando termina el que esta en ejecucion
 active = 0
 def start_timer():
     global active, reps
