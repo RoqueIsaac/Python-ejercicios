@@ -2,11 +2,11 @@
 
 # Password Manager, Tkinter GUI
 
-<img src="./pass.PNG" alt="pomodoro" width="100" height="100">
+<img src="./pass.PNG" alt="pass_mgn" width="100" height="100">
 
 ## Introduction
 
-This GUI will help you to store websites password in a file..
+This GUI will help you to save websites password in a file.
 
 
 ## Dependencies
