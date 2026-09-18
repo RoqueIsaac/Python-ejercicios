@@ -6,7 +6,8 @@
 
 ## Introduction
 
-This GUI will help you to save websites password in a file.
+This GUI will help you to save websites password in a file,
+you can either type a password or generate it.
 
 
 ## Dependencies
