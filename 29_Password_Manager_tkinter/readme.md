@@ -13,7 +13,7 @@ New version:
 
    * Search button added
    * Ask for override if website already exist
-   * Instead of save data as .txt, we use a json file.
+   * Instead of save data as .txt, json file is used.
 
 ## Dependencies
 
