@@ -20,5 +20,5 @@ New version:
 | File      | Description |
 | ----------- | ----------- |
 | main.py       | main program file |
-| data.txt     | passwrd file |
+| data.json     | store passwds |
 
