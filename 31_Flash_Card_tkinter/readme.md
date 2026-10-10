@@ -2,7 +2,7 @@
 
 # Password Manager, Tkinter GUI
 
-<img src="./flash.PNG" alt="pass_mgn" width="100" height="100">
+|<img src="./flash2.PNG" alt="pass_mgn" width="100" height="100"> | <img src="./flash.PNG" alt="pass_mgn" width="100" height="100">|
 
 ## Introduction
 
