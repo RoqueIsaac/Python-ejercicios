@@ -15,11 +15,9 @@ search how to do it with your email provider.
 On this project I read birthdays.csv file where you need to add your friends/family name, email, birth informacion: year, month, day;
 the program check today's date and extract data from the file and ramdonly chooses between 3 templates to sent happy birthday letter.
 
-birthdays.csv
-You will need to update it, I leave some details just to show you the format, current information is invented
+birthdays.csv  ->  You will need to update it, I leave some details just to show you the format, current information is invented
 
-main.py
-You need update your email and application passowrd
+main.py  ->  You need update your email and application passowrd
 
 
 
