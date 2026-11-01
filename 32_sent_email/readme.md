@@ -23,7 +23,7 @@ the program check today's date and extract data from the file and ramdonly choos
 | File      | Description |
 | ----------- | ----------- |
 | main.py       | main program file |
-| brithdays.csv | loaad data first time |
+| brithdays.csv | loaad data |
 | letter_1.txt | template 1 |
 | letter_2.txt | template 2 |
 | letter_3.txt | template 3 |
