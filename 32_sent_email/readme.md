@@ -3,8 +3,6 @@
 
 # Sent Email, birthday letter
 
-<img src="./flash2.PNG" alt="pass_mgn" width="100" height="100">  <img src="./flash.PNG" alt="pass_mgn" width="100" height="100">
-
 ## Introduction
 
 This project use smtplib library to sent emails, however I found an issue with yahoo server, gmail seems working fine,
