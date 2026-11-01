@@ -26,7 +26,7 @@ main.py  ->  You need update your email and application passowrd
 | File      | Description |
 | ----------- | ----------- |
 | main.py       | main program file |
-| brithdays.csv | loaad data |
+| brithdays.csv | load data |
 | letter_1.txt | template 1 |
 | letter_2.txt | template 2 |
 | letter_3.txt | template 3 |
